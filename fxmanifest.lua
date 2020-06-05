@@ -1,7 +1,7 @@
 fx_version 'bodacious'
 games {'gta5'}
 
-author 'xGrvRXEx'
+author 'TSX'
 description 'Simple Player Counter For Servers'
 version '1.0.0'
 
